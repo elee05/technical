@@ -2,5 +2,5 @@ Living in Boston, a city with what feels like very erratic sunrise and sunset ti
 
 Features:
 - An interactive, pretty world map that spans most of the home page, using the React Leaflet library.
-= An event that places a marker at your current location with a popup that displays the sunrise and sunset times of your location using the Sunrise Sunset JS library.
+- An event that places a marker at your current location with a popup that displays the sunrise and sunset times of your location using the Sunrise Sunset JS library.
 - The popup also displays information about a place in a totally different part of the world with similar sunrise and sunset times using Google Gemini API 
